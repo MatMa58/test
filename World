@@ -1,0 +1,5 @@
+#This is not a real password, just for gitguardian testing!
+print("Hello, World!")
+export MAIL_USERNAME='name.surname@gmail.com'
+export MAIL_PASSWORD='EXa8mp888@le'
+#This is not a real password, just for gitguardian testing!
